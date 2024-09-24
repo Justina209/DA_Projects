@@ -157,7 +157,7 @@ Additional References: [Include any relevant papers, articles, or blogs that wer
 sql
 Copy code
 
-This full template combines everything into one block, ensuring that all components, including the setup instructions, are part of the single comprehensive README markdown file for your Exploratory Data Analysis project. You can modify and add more specific details as needed for your particular project.
+
 
 
 
